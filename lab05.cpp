@@ -50,7 +50,7 @@ int main() {
                 } else if (userInput == 'N') {
                     MPG = getMPG(userMiles, userGallons);
                     cout<<endl;
-                    cout << "Your vehicle has an average of " <<setprecision(1) << fixed << round_to_nearest<< MPG << " MPG" << endl;
+                    cout << "Your vehicle has an average of " <<setprecision(1) << fixed << MPG << " MPG" << endl;
                     cout << "Come again soon!" << endl;
                     run1 = false;
                     run = false;
