@@ -1,4 +1,4 @@
 # lab05
-# Student's name:
-# Student's email address:
+# Student's name: Sarah Ogent
+# Student's email address: sogent@mail.umkc.edu
 # Screenshots:
